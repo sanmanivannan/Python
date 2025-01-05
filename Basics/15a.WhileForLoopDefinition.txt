@@ -1,0 +1,12 @@
+FOR LOOP
+========
+* FOR loop needs an iterable object to iterate(like range,string,list,tuples,dictionary or sets)
+* FOR loop is used when the number of iterations in known in advance
+
+
+WHILE LOOP
+==========
+* WHILE loop executes based on the a condition
+* WHILE loop is used when the number of iterations is NOT known in advance
+
+line added from the 24.WritingFile.py

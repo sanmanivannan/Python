@@ -1,0 +1,16 @@
+go to terminalower shell
+
+python -m venv .venv
+
+source .venv/Scripts/activate
+
+deactivate #to come out of the .venv
+
+######################################
+
+
+
+
+
+
+python3 -m pip freeze > requirement.txt

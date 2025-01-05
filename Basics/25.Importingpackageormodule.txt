@@ -1,0 +1,23 @@
+Standard library
+================
+If the package is not part of the standard library, you'll need to install it first, before you can import it.
+you can install a library with a package manager such as pip or conda
+
+pip install <somepackage>
+
+Import a package or module
+==========================
+you can import a python library using the import statement. For Example:
+
+#Import a package without an alias
+import <somepackage>
+
+import this
+
+#Import a package with an alias
+import this as th
+import panda as pd
+
+#Import a specific module from a package
+from time import clock
+
