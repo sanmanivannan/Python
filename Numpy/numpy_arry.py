@@ -6,9 +6,6 @@ import time
 
 SIZE=1000000
 
-
-
-
 a = np.arange(SIZE)
 b = np.arange(SIZE)
 
