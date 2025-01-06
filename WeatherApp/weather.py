@@ -17,5 +17,7 @@ def get_current_weather():
     
     #print(weather_data)
     print(f'\n The temperature in {city_name} is {weather_data["main"]["temp"]:.1f}°')
+
 get_current_weather()
 
+#created the dev branch
